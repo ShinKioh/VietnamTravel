@@ -1,71 +1,40 @@
 <script src="page.js"></script>
 <script src="toggle.js"></script>
 <head>
-  <h1>다라와 함께하는 해외여행</h1>
+  <h1>경주 숙소</h1>
 </head>
 <body>
   <div>
-    <h3 onclick="dalatReastaurantToggle()">달랏 맛집</h3>
+    <!-- <h3 onclick="defaultToggle()">경주 숙소</button> -->
   </div>
-  <div id="dalatReastaurantToggle" style="display: none;">
-    <img src="달랏맛집.jpg" />  
+  <div id="defaultToggle" style="display: block">
+    <div style="display: flex">
+      <button style="margin-right: 5px" type="button" name="리버틴 호텔 경주" onclick="RivertainHotel()">리버틴 호텔 경주</button>
+      <p style="margin: 0px">황리단길까지 도보 17분</p>
+    </div>
+    <div style="display: flex; margin-top: 10px">
+      <button style="margin-right: 5px" type="button" name="지지 호텔" onclick="GGHotel()">지지 호텔</button>
+      <p style="margin: 0px">황리단길까지 도보 12분</p>
+    </div>
+    <div style="display: flex; margin-top: 10px">
+      <button style="margin-right: 5px" type="button" name="덴바스타 헤리티지 호텔" onclick="DenbastaHeritageHotel()">덴바스타 헤리티지 호텔</button>
+      <p style="margin: 0px">황리단길까지 도보 14분</p>
+    </div>
+    <div style="display: flex; margin-top: 10px">
+      <button style="margin-right: 5px" type="button" name="신라 부티크 호텔" onclick="SillaBoutiqueHotel()">신라 부티크 호텔</button>
+      <p style="margin: 0px">황리단길까지 도보 20분</p>
+    </div>
+    <div style="display: flex; margin-top: 10px">
+      <button type="button" name="슈가 호텔" onclick="SugarHotel()">슈가 호텔</button>
+      <p style="margin: 0px">황리단길까지 도보 18분</p>
+    </div>
+    <div style="display: flex; margin-top: 10px">
+      <button style="margin-right: 5px" type="button" name="포베르타 스테이" onclick="PovertaStay()">포베르타 스테이</button>
+      <p style="margin: 0px">황리단길까지 도보 13분</p>
+    </div>
+    <div style="display: flex; margin-top: 10px">
+      <button style="margin-right: 5px" type="button" name="엘리건스 호텔" onclick="EleganceHotel()">엘리건스 호텔</button>
+      <p style="margin: 0px">황리단길까지 도보 23분</p>
+    </div>
   </div>
-  <div>
-    <h3 onclick="natTrangReastaurantToggle()">나트랑 맛집</h3>
-  </div>
-  <div id="natTrangReastaurantToggle" style="display: none;">
-    <img src="나트랑맛집.jpg" />  
-  </div>
-  <div>
-    <h3 onclick="dalatToggle()">7/21~7/23 달랏</button>
-  </div>
-  <div id="dalatToggle" style="display: block">
-    <button type="button" name="아라만다라 숙소" onclick="Aramandara()">아라만다라 숙소</button>
-    <p>7/21 1시 도착 : 달랏이동 (리조트휴식)</p>
-    <p>7/22 달랏 시내투어 or 자연투어 + 야시장</p>
-    <p>7/23 달랏 시내투어 or 자연투어</p>
-    <p>1) 린푸억사원 2) 달랏 기차역 3) 크레이지 하우스 4) 플라워 가든 5) 달랏 야시장 6) 퐁구르 폭포 7) 죽림 사원(민소매, 짧은치마 X)</p>
-  </div>
-  <div>
-    <h3 onclick="nhaTrangToggle()">7/23~7/25 나트랑</h3>
-  </div>
-  <div id="nhaTrangToggle" style="display: block">
-    <button type="button" name="Panorama Star Beach Nha Trang" onclick="PanoramaStarBeachNhaTrang()">Panorama Star Beach Nha Trang</button>
-    <button type="button" name="리게일리어 골드 호텔" onclick="RegaliaGoldHotel()">리게일리어 골드 호텔</button>
-    <button type="button" name="버고 호텔" onclick="VirgoHotel()">버고 호텔</button>
-    <button type="button" name="하바나 나트랑 호텔" onclick="HavanaNhaTrangHotel()">하바나 나트랑 호텔</button>
-    <button type="button" name="골드 코스트" onclick="WiseStayGoldCoast()">와이즈 스테이 골드 코스트</button>
-    <p>7/23 투어 후 나트랑으로 이동 (시내 호텔 숙박)</p>
-    <p>7/24 호핑투어 + 야시장(해피비치), 시내호텔 숙박 (연박)</p>
-    <p>호핑투어</p>
-    <p>
-      <button type="button" name="호핑투어 나트랑 수호천사" onclick="HoppingTourAngel()">나트랑 수호천사</button>
-    </p>
-    <img src="수호천사 투어.jpg" />
-    <p>
-      <button type="button" name="호핑투어 나트랑 산티아고 투어" onclick="HoppingTourSantiago()">나트랑 산티아고 투어</button>
-    </p>
-    <img src="산티아고 투어.jpg" />
-  </div>
-  <div>
-    <h3 onclick="vinPearlToggle()">7/25~7/26 빈펄섬</h3>
-  </div>
-  <div id="vinPearlToggle" style="display: block">
-    <button type="button" name="빈펄 리조트 앤 스파 나트랑 베이" onclick="VinpearlResortSpaNhaTrangBay()">빈펄 리조트 앤 스파 나트랑 베이</button>
-    <button type="button" name="빈펄 리조트" onclick="VinpearlResortNhaTrang()">빈펄 리조트 나트랑</button>
-    <p>7/25 빈펄섬(동물원, 놀이공원, 워터파크), 빈펄리조트 숙박</p>
-  </div>
-  <div>
-    <h3 onclick="lastDayToggle()">7/26~7/27 나트랑, 깜란, 판랑</h3>
-  </div>
-  <div id="lastDayToggle" style="display: block">
-    <p>7/26 시내투어 및 깜란 바다 구경, 시내호텔 숙박</p>
-    <p>1) 혼탐, 혼 트레, 혼미우, 혼못 섬 2) 포나가르 사원 3) 롱선사 4) 담시장</p>
-    <p>7/27 판랑 -> 0.5박 숙소 -> 나트랑 (귀국)</p>
-    <p>
-      <button type="button" name="스타인 판랑" onclick="StarInPanrang()">스타인 판랑</button>
-    </p>
-    <img src="https://d2ur7st6jjikze.cloudfront.net/offer_descriptive_images/131864/471323_medium_1712208629.jpg?1712208629" />
-  </div>
-  <h3>7/28 귀국</p>
 </body>

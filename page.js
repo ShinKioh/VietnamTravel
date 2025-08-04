@@ -1,59 +1,45 @@
-function Aramandara() {
+function RivertainHotel() {
   window.open(
-    'https://www.agoda.com/ko-kr/ana-mandara-villas-dalat-resort-spa/hotel/dalat-vn.html?finalPriceView=1&isShowMobileAppPrice=false&cid=1755781&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2024-07-21&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=KRW&isFreeOccSearch=false&tag=13ee1f40-1de4-434b-a998-0c5fcefe2ebf&los=2&searchrequestid=de54449e-e06a-42ba-8779-3df77bbb4adb&ds=WlKzaO6Lto0axeZ5'
+    'https://www.agoda.com/ko-kr/rivertain-hotel-gyeongju/hotel/gyeongju-si-kr.html?countryId=212&finalPriceView=1&isShowMobileAppPrice=false&cid=1587497&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2025-08-5&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=KRW&isFreeOccSearch=false&tag=hid9454376%2Cpide449b66e-de46-4a23-81ed-84a2db32f62e&los=1&searchrequestid=3ad1f832-34e9-4db8-b565-42422ce0743d&ds=aAWn44Q3p%2BedvMS8'
   );
 }
 
-function PanoramaStarBeachNhaTrang() {
+function GGHotel() {
   window.open(
-    'https://www.agoda.com/ko-kr/vinpearl-resort-spa-nha-trang-bay/hotel/nha-trang-vn.html?finalPriceView=1&isShowMobileAppPrice=false&cid=1755781&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2024-07-25&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=KRW&isFreeOccSearch=false&tag=13ee1f40-1de4-434b-a998-0c5fcefe2ebf&los=1&searchrequestid=82c753c0-9f04-4af2-b9be-73abe582deca&ds=loxlGbj5L3QyUAcl'
+    'https://www.agoda.com/ko-kr/gyeongju-tourist-hotel-gg/hotel/gyeongju-si-kr.html?countryId=212&finalPriceView=1&isShowMobileAppPrice=false&cid=1587497&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2025-08-5&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=KRW&isFreeOccSearch=false&tag=hid529490%2Cpidcdc7e872-5fd6-4c2a-903a-10050ff06fbc&los=1&searchrequestid=1c39320c-bbd1-47ae-88b4-2dd4ca3d8f5e&ds=aiPURZZgHLhbhUwe'
   );
 }
 
-function RegaliaGoldHotel() {
+function DenbastaHeritageHotel() {
   window.open(
-    'https://www.agoda.com/ko-kr/regalia-gold-hotel/hotel/nha-trang-vn.html?finalPriceView=1&isShowMobileAppPrice=false&cid=1770664&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2024-07-23&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=KRW&isFreeOccSearch=false&tspTypes=1%2C8&los=1&searchrequestid=e1e9da31-ee4e-4df8-93e4-396354a9d6e2&ds=BFATLOpvvNyEPglF'
+    'https://www.agoda.com/ko-kr/h34835682/partnerhotel/gyeongju-si-kr.html?cid=1891504&currency=KRW&checkin=2025-08-05&checkout=2025-08-06&numberofchildren=0&mcid=332&masterroomid=903571726&mpt=U2RCRmxFeU1pTlhYcGl4K1NNejMvcXhuVmtlb0hidGkrVGdkcjRaUG5DWTR2MnhSc3dOZ09mRT0&totalprice=123551&totaltax=11600&totalfee=9843&mcur=KRW&hid=34835682&adults=2&rooms=1&los=1&pslc=1&ds=A%2BSVy2hYj1t9hodv'
   );
 }
 
-function VirgoHotel() {
+function SillaBoutiqueHotel() {
   window.open(
-    'https://www.agoda.com/ko-kr/virgo-hotel/hotel/nha-trang-vn.html?finalPriceView=1&isShowMobileAppPrice=false&cid=1770664&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2024-07-23&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=KRW&isFreeOccSearch=false&tspTypes=2%2C8&los=1&searchrequestid=e1e9da31-ee4e-4df8-93e4-396354a9d6e2&ds=BFATLOpvvNyEPglF'
+    'https://www.agoda.com/ko-kr/silla-boutique-hotel-premium/partnerhotel/gyeongju-si-kr.html?cid=1891504&currency=KRW&checkin=2025-08-05&checkout=2025-08-06&numberofchildren=0&mcid=332&masterroomid=14227044&mpt=RG5vdnJQV3BSZlpwUGhydmZCaENTVkMxVWwrNnFiRlh0TXkxTFY0UGg1am5oaGV2bzNibVVnPT0&totalprice=122418&totaltax=11129&totalfee=0&mcur=KRW&hid=1156249&adults=2&rooms=1&los=1&pslc=1&ds=TdPnwKR2bgHCiTfA'
   );
 }
 
-function HavanaNhaTrangHotel() {
+function SugarHotel() {
   window.open(
-    'https://www.agoda.com/ko-kr/havana-nha-trang-hotel/hotel/nha-trang-vn.html?finalPriceView=1&isShowMobileAppPrice=false&cid=1770664&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2024-07-23&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=KRW&isFreeOccSearch=false&tspTypes=8&los=1&searchrequestid=e1e9da31-ee4e-4df8-93e4-396354a9d6e2&ds=msGADexPEEZdtxPH'
+    'https://www.agoda.com/ko-kr/sugar-hotel/partnerhotel/gyeongju-si-kr.html?cid=1891504&currency=KRW&checkin=2025-08-05&checkout=2025-08-06&numberofchildren=0&mcid=332&masterroomid=3271702&mpt=dzYzOWJrTUxEaTF6WDZ1OHN1QWlEOWdwV05CVXB0Q1JzM09PcytZclNoOWcwZ0F6T0ExVDlRPT0&totalprice=71444&totaltax=6495&totalfee=0&mcur=KRW&hid=407956&adults=2&rooms=1&los=1&pslc=1&ds=fTJtfEFBfyMgvm2o'
   );
 }
 
-function WiseStayGoldCoast() {
+function PovertaStay() {
   window.open(
-    'https://www.agoda.com/ko-kr/wise-stay-gold-coast/hotel/nha-trang-vn.html?los=1&pid=redirect&adults=2&deep_link_value=agoda%3A%2F%2Fhotel%2FWise%20Stay%20Gold%20Coast%2F31664313&cid=1770664&c=Property_Sharing_V1_Shortened&rooms=1&site_id=1770664&ds=BFATLOpvvNyEPglF&checkin=2024-07-27'
+    'https://www.agoda.com/ko-kr/poverta-stay/partnerhotel/gyeongju-si-kr.html?cid=1891504&currency=KRW&checkin=2025-08-05&checkout=2025-08-06&numberofchildren=0&mcid=332&masterroomid=804786261&mpt=VEdrZmFXSStlazU0by9zS0U3QSt5bzg2Z3R5cWc1SHVaMUFSR0pUenVMaFFCOE9RaVhzaFNiZz0&totalprice=122728&totaltax=10767&totalfee=10533&mcur=KRW&hid=51901111&adults=2&rooms=1&los=1&pslc=1&ds=FvTWXh6BkE%2B%2Boj83'
   );
 }
 
-function HoppingTourAngel() {
-  window.open('https://cafe.naver.com/frpolice/16979');
-}
-
-function HoppingTourSantiago() {
-  window.open('https://smartstore.naver.com/nhatrangtour/products/6902281039?');
-}
-
-function VinpearlResortSpaNhaTrangBay() {
+function EleganceHotel() {
   window.open(
-    'https://www.agoda.com/ko-kr/vinpearl-resort-spa-nha-trang-bay/hotel/nha-trang-vn.html?finalPriceView=1&isShowMobileAppPrice=false&cid=1755781&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2024-07-25&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=KRW&isFreeOccSearch=false&tag=13ee1f40-1de4-434b-a998-0c5fcefe2ebf&los=1&searchrequestid=82c753c0-9f04-4af2-b9be-73abe582deca&ds=loxlGbj5L3QyUAcl'
+    'https://www.agoda.com/ko-kr/gyeongju-elegance-hotel/partnerhotel/gyeongju-si-kr.html?cid=1891504&currency=KRW&checkin=2025-08-05&checkout=2025-08-06&numberofchildren=0&mcid=332&masterroomid=1011891420&mpt=eWx6QWtwTzJVWG1uY1JrSWg5Y3NTd1NFVnJYMU9seGVtZTQ1T0hUWHRMVDhPeXJaSUQzWnFjMD0&totalprice=98038&totaltax=8570&totalfee=8445&mcur=KRW&hid=61728527&adults=2&rooms=1&los=1&pslc=1&ds=bnHXopytyGogRIvB'
   );
 }
 
-function VinpearlResortNhaTrang() {
-  window.open(
-    'https://www.agoda.com/ko-kr/vinpearl-resort-nha-trang/hotel/nha-trang-vn.html?finalPriceView=1&isShowMobileAppPrice=false&cid=1770664&numberOfBedrooms=&familyMode=false&adults=2&children=0&rooms=1&maxRooms=0&checkIn=2024-07-25&isCalendarCallout=false&childAges=&numberOfGuest=0&missingChildAges=false&travellerType=1&showReviewSubmissionEntry=false&currencyCode=KRW&isFreeOccSearch=false&tspTypes=7%2C6%2C8&los=1&searchrequestid=9d2316ae-670a-46bd-913d-6b9918698a07&ds=BFATLOpvvNyEPglF'
-  );
-}
-
-function StarInPanrang() {
-  window.open('https://www.myrealtrip.com/offers/131864');
+function test() {
+  window.open('');
 }
